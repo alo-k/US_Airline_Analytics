@@ -1,4 +1,5 @@
 🚀 Airline Data Analytics Project — Overview
+
 Built an end-to-end Airline Analytics solution using SQL Server and Power BI, analyzing 5.8M+ flight records. Performed data cleaning, transformation, KPI development, and EDA, then created an interactive dashboard to monitor on-time performance, delays, cancellations, airline efficiency, airport performance, and travel trends.
 
 Dataset Link - https://drive.google.com/file/d/1_Mt-OR_IxoIy7HVkvD4bW0-fm4MRY6og/view
